@@ -4,6 +4,7 @@
 ### https://github.com/jdallmann/winnipegr
 ### censusmapper.ca
 ### https://drive.google.com/file/d/1e-zmzDY1O7oRJkTZrNehNQgTeTiGCTxS/view
+### script creator: Julie Chih-yu Chen
 
 library(sf)
 

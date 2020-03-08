@@ -1,5 +1,5 @@
-# Save Neighbourhood Project
-Crime rate versus housing price
+# Save Neighbourhood Project for Winnipeg Hackathon 2020
+Investigation of crime rate versus housing price in Winnpeg communities
 
 Team (left to right):
 Andy Reid, Juhee Kim, Julie Chih-yu Chen, Quoc Le, Tuan Huynh

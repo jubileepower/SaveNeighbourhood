@@ -1,0 +1,232 @@
+"Neighbourhoods" "rate"
+"Agassiz" 23
+"Airport" 72
+"Alpine Place" 160
+"Amber Trails" 215
+"Armstrong Point" 25
+"Assiniboia Downs" 50
+"Assiniboine Park" 29
+"Beaumont" 259
+"Betsworth" 59
+"Birchwood" 106
+"Booth" 242
+"Bridgwater Centre" 55
+"Bridgwater Forest" 71
+"Bridgwater Lakes" 47
+"Bridgwater Trails" 42
+"Broadway-Assiniboine" 568
+"Brockville" 28
+"Brooklands" 327
+"Bruce Park" 95
+"Buchanan" 113
+"Buffalo" 35
+"Burrows Central" 554
+"Burrows-Keewatin" 216
+"Canterbury Park" 170
+"Centennial" 742
+"Central Park" 833
+"Central River Heights" 215
+"Central St. Boniface" 1029
+"Chalmers" 1096
+"Chevrier" 70
+"Chinatown" 120
+"Civic Centre" 141
+"Cloutier Drive" 7
+"Colony" 313
+"Crescent Park" 152
+"Crescentwood" 270
+"Crestview" 507
+"Dakota Crossing" 276
+"Daniel Mcintyre" 1530
+"Deer Lodge" 159
+"Dufferin" 496
+"Dufferin Industrial" 75
+"Dufresne" 41
+"Dugald" 26
+"Eaglemere" 49
+"Earl Grey" 459
+"East Elmwood" 256
+"Ebby-Wentworth" 101
+"Edgeland" 184
+"Elm Park" 113
+"Elmhurst" 133
+"Eric Coy" 44
+"Exchange District" 529
+"Fairfield Park" 189
+"Fort Richmond" 406
+"Garden City" 520
+"Glendale" 56
+"Glenelm" 161
+"Glenwood" 448
+"Grant Park" 377
+"Grassie" 92
+"Griffin" 6
+"Heritage Park" 154
+"Holden" 12
+"Inkster Gardens" 133
+"Inkster Industrial Park" 151
+"Inkster-Faraday" 376
+"Island Lakes" 104
+"J. b. Mitchell" 93
+"Jameswood" 37
+"Jefferson" 607
+"Kensington" 63
+"Kern Park" 54
+"Kil-cona Park" 11
+"Kildare-Redonda" 247
+"Kildonan Crossing" 107
+"Kildonan Drive" 223
+"Kildonan Park" 15
+"King Edward" 365
+"Kirkfield" 94
+"La Barriere" 1
+"Lavalee" 84
+"Legislature" 112
+"Leila North" 180
+"Leila-Mcphillips Triangle" 474
+"Linden Ridge" 32
+"Linden Woods" 225
+"Logan-C.P.R" 352
+"Lord Roberts" 335
+"Lord Selkirk Park" 530
+"Luxton" 215
+"Maginot" 49
+"Mandalay West" 186
+"Maple Grove Park" 2
+"Margaret Park" 88
+"Marlton" 20
+"Mathers" 137
+"Maybank" 101
+"Mcleod Industrial" 73
+"Mcmillan" 476
+"Meadowood" 343
+"Meadows" 187
+"Melrose" 86
+"Minnetonka" 141
+"Minto" 644
+"Mission Gardens" 143
+"Mission Industrial" 114
+"Montcalm" 348
+"Munroe East" 327
+"Munroe West" 215
+"Murray Industrial Park" 17
+"Mynarski" 89
+"Niakwa Park" 25
+"Niakwa Place" 38
+"Norberry" 78
+"Normand Park" 31
+"North Inkster Industrial" 39
+"North Point Douglas" 630
+"North River Heights" 331
+"North St. Boniface" 250
+"North Transcona Yards" 6
+"Norwood East" 405
+"Norwood West" 330
+"Oak Point Highway" 69
+"Old Tuxedo" 67
+"Omand's Creek Industrial" 75
+"Pacific Industrial" 98
+"Parc La Salle" 58
+"Parker" 14
+"Peguis" 104
+"Pembina Strip" 271
+"Perrault" 2
+"Point Road" 115
+"Polo Park" 915
+"Portage & Main" 141
+"Portage-Ellice" 686
+"Pulberry" 169
+"Radisson" 86
+"Regent" 750
+"Richmond Lakes" 43
+"Richmond West" 318
+"Ridgedale" 14
+"Ridgewood South" 33
+"River East" 270
+"River Park South" 211
+"River West Park" 34
+"River-Osborne" 710
+"Riverbend" 44
+"Riverview" 225
+"Robertson" 246
+"Roblin park" 26
+"Rockwood" 250
+"Roslyn" 432
+"Rosser-Old Kildonan" 36
+"Rossmere-A" 752
+"Rossmere-B" 154
+"Royalwood" 63
+"Sage Creek" 90
+"Sargent Park" 534
+"Saskatchewan North" 19
+"Seven Oaks" 227
+"Shaughnessy Park" 154
+"Silver Heights" 299
+"Sir John Franklin" 171
+"South Point Douglas" 506
+"South Pointe" 92
+"South Portage" 1705
+"South River Heights" 244
+"South Tuxedo" 96
+"Southboine" 25
+"Southdale" 323
+"Southland Park" 23
+"Spence" 936
+"Springfield North" 118
+"Springfield South" 62
+"St. Boniface Industrial Park" 54
+"St. George" 110
+"St. James Industrial" 1084
+"St. John's" 1186
+"St. John's Park" 154
+"St. Matthews" 1189
+"St. Norbert" 94
+"St. Vital Centre" 254
+"St. Vital Perimeter South" 62
+"Stock Yards" 88
+"Sturgeon Creek" 274
+"Symington Yards" 36
+"Talbot-Grey" 172
+"Templeton-Sinclair" 475
+"The Forks" 143
+"The Maples" 560
+"The Mint" 3
+"Tissot" 26
+"Transcona North" 3
+"Transcona South" 22
+"Transcona Yards" 16
+"Trappistes" 3
+"Turnbull Drive" 3
+"Tuxedo" 74
+"Tuxedo Industrial" 305
+"Tyndall Park" 641
+"Tyne-Tees" 157
+"University" 141
+"Valhalla" 65
+"Valley Gardens" 423
+"Varennes" 96
+"Varsity View" 54
+"Vialoux" 65
+"Victoria Crescent" 6
+"Victoria West" 112
+"Vista" 56
+"Waverley Heights" 110
+"Waverley West B" 3
+"Wellington Crescent" 205
+"West Alexander" 1548
+"West Broadway" 999
+"West Fort Garry Industrial" 122
+"West Kildonan Industrial" 35
+"West Wolseley" 63
+"Westdale" 270
+"Weston" 640
+"Weston Shops" 101
+"Westwood" 221
+"Whyte Ridge" 115
+"Wildwood" 24
+"Wilkes South" 31
+"William Whyte" 1682
+"Windsor Park" 280
+"Wolseley" 675
+"Woodhaven" 15
+"Worthington" 287
